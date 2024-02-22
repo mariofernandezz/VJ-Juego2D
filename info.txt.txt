@@ -1,0 +1,27 @@
+Jan Samaranch
+Mario Fernández Simón
+
+Implementación:
+
+-Estructura de 4 pantallas
+-2 niveles de juego que se pueden jugar por orden o no (usando las teclas 1 y 2)
+-2 enemigos: Goombas y Koopa Troopas. Los ultimos al morir dejan un caparazon
+-Correr con shift y saltar con espacio, correr es progresivo
+-Bloques que contienen power ups y se destruyen
+-Cambio de forma del Mario cogiendo power up o pulsando G (mario estrella) o M (mario bros)
+-Cuando golpean a Mario Bros cambia a Mario pequeño y es invencible durante 3 segundos
+-Mario Estrella es invencible durante 10 segundos
+-Moviment de la camara solo hacia la izquierda
+-El Mario muere si se cae por agujero, si se golpea con un enemigo siendo pequeño o si se queda sin tiempo
+-Puntuación: coger estrella o seta +1000, al matar alguien +150, al coger moneda +100 y +10 extra por cada segundo que le sobre
+-Interficie gráfica que muestra puntuación, tiempo restante y nivel.
+-Clicar P pone el juego en pausa.
+
+Intrucciones del juego:
+-Menu principal muestra 4 opciones: Jugar, Creditos, Ayuda y Exit.
+-Jugar: puedes acceder con enter o clicando 1 o 2 te llega al mapa correspondiente
+-Creditos: puedes acceder clicando C
+-Help: muestra controles del juego
+-Objetivo: pasarse los 2 niveles sin morir ninguna vez y intentando obtener la máxima puntuación
+	   Si mueres puedes volver a empezar clicando la letra "Esc", te lleva al menú inicial.
+-Cuando completas uno de los dos niveles, carga el siguiente mapa, si consigues pasarlo tambien has ganado el juego y saldrá tu puntuación.

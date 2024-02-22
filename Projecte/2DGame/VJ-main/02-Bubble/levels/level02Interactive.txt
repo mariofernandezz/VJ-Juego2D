@@ -1,0 +1,18 @@
+TILEMAP
+224 13 							-- Size of tile map in tiles
+16 16  		-- Tile size & block size
+images/tilebueno.png 					-- Tilesheet
+18 4 								-- Number of tiles in tilesheet
+                   KLM              KLLM                           KLM              KLLM                           KLM              KLLM                           KLM              KLLM                                        
+        KLM        ]^_     KLLLM    ]^^_                KLM        ]^_     KLLLM    ]^^_                KLM        ]^_     KLLLM    ]^^_                KLM        ]^_     KLLLM    ]^^_              H  KLM                    
+        ]^_                ]^^^_                        ]^_                ]^^^_                        ]^_                ]^^^_                        ]^_                ]^^^_                     no  ]^_                    
+                      8                                                         66666666   6668              8           666    6886                                                        RR        @                         
+                                                                                                                                                                                           RRR        @                         
+                                                                                                                                                                                          RRRR        @                         
+                                                                8                                                                                                                        RRRRR        @    ```                  
+                8   68686                     AB         AB                  686              I     6b    8  8  8     6          66      R  R          RR  R            6686            RRRRRR        @    g7i                  
+  I                                   AB      ST  I      ST                                       I                                     RR  RR    I   RRR  RR                          RRRRRRR    I   @   `bbb`                 
+ ZV\             I          AB        ST      ST ZV\     ST                                      ZV\             I                     RRR  RRR  ZV\ RRRR  RRR   I AB              AB RRRRRRRR   ZV\  @   77a77  I              
+UVWXY      NOOOPZV\    NOP  ST        ST NOOP STUVWXY    STNOOOPZV\    NOP               NOOP   UVWXY      NOOOPZV\    NOP            RRRROORRRRUVWXRRRRR  RRRRPZV\ST  NOP         STRRRRRRRRR  UVWXY R   77h77PZV\    NOP      
+JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ  JJJJJJJJJJJJJJJ   JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ  JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
+JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ  JJJJJJJJJJJJJJJ   JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ  JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ

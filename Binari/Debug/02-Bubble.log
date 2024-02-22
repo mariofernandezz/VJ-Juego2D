@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\34722\Downloads\VJ projecte1 (2)\VJ projecte1\2DGame\VJ-main\02-Bubble\Game.cpp(12,41): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+C:\Users\34722\Downloads\VJ projecte1 (2)\VJ projecte1\2DGame\VJ-main\02-Bubble\Game.cpp(12,30): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+C:\Users\34722\Downloads\VJ projecte1 (2)\VJ projecte1\2DGame\VJ-main\02-Bubble\Game.cpp(12,19): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+SOIL.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB '' con 'SOIL.lib(image_DXT.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(image_helper.obj) : warning LNK4099: no se encontró PDB '' con 'SOIL.lib(image_helper.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(SOIL.obj) : warning LNK4099: no se encontró PDB '' con 'SOIL.lib(SOIL.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: no se encontró PDB '' con 'SOIL.lib(stb_image_aug.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  02-Bubble.vcxproj -> C:\Users\34722\Downloads\VJ projecte1 (2)\VJ projecte1\2DGame\VJ-main\Debug\02-Bubble.exe

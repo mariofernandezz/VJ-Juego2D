@@ -1,0 +1,18 @@
+TILEMAP
+224 13 							-- Size of tile map in tiles
+16 16   		-- Tile size & block size
+images/tilebueno.png 					-- Tilesheet
+18 4 								-- Number of tiles in tilesheet
+                   KLM              KLLM                           KLM              KLLM                           KLM              KLLM                           KLM              KLLM                                        
+        KLM        ]^_     KLLLM    ]^^_                KLM        ]^_     KLLLM    ]^^_                KLM        ]^_     KLLLM    ]^^_                KLM        ]^_     KLLLM    ]^^_              H  KLM                    
+        ]^_                ]^^^_                        ]^_                ]^^^_                        ]^_                ]^^^_                        ]^_                ]^^^_                     no  ]^_                    
+                                                                                                                                                                                                      @                         
+                                                                                                                                                                                                      @                         
+                                                                                                                                                                                                      @                         
+                                                                                                                                                                                                      @    ```                  
+                                                                                                                                                                                                      @    g7i                  
+  I                                               I                                               I                                               I                                               I   @   `666`                 
+ ZV\         I                                   ZV\             I                I              ZV\             I                               ZV\             I                               ZV\  @   77h77  I              
+UVWXY       ZV\        NOP               NOOP   UVWXY      NOOOPZV\              ZV\     NOOP   UVWXY      NOOOPZV\   NOP                NOOP   UVWX         NOPZV\    NOP                      UVWXY     77h77PZV\    NOP      
+           UVWXY                                               UVWXY            UVWXY                                                                                                                                           
+          UVWWWXY                                             UVWWWXY          UVWWWXY                                                                                                                                          
